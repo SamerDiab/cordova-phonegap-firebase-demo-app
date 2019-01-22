@@ -16,13 +16,11 @@ The current flow of the app is as follows.
 
 1.Splash screen(index.html)</br>
 2.Home Screen(HomeScreen.html)</br>
-
 &nbsp;&nbsp;2.a. If user has no orders, a text box will display that.</br>
 &nbsp;&nbsp;2.b. If user has orders, they will be loaded into a jquery listview.</br>
 &nbsp;&nbsp;2.c. If user clicks on the menu, Log out and profile buttons will be displayed.</br>
 &nbsp;&nbsp;2.d. If user clicks on new order, a redirection to the new order page will be prompted.</br>
 &nbsp;&nbsp;2.e. If user clicks on the order, a refirection to the order details page will be prompted.</br>
-
 3.Create a new order(NewOrder.html)</br>
 &nbsp;&nbsp; 3.a When user creates a new order, a redirection will be propmted to section 2.</br>
 4.Profile page (Profile.html)</br>
