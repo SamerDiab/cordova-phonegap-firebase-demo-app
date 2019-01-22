@@ -22,9 +22,10 @@ The current flow of the app is as follows.
 &nbsp;&nbsp;2.d. If user clicks on new order, a redirection to the new order page will be prompted.</br>
 &nbsp;&nbsp;2.e. If user clicks on the order, a refirection to the order details page will be prompted.</br>
 3.Create a new order(NewOrder.html)</br>
-&nbsp;&nbsp; 3.a When user creates a new order, a redirection will be propmted to section 2.</br>
+&nbsp;&nbsp; 3.a. When user creates a new order, a redirection will be propmted to section 2.</br>
 4.Profile page (Profile.html)</br>
-5.Order Details.</br>
+5.Order Details.</br>(OrderDetails.html)</br>
+&nbsp;&nbsp;5.a. User clicks delete order, a redirection will be prompted to section 2.</bt>
 
 To notify about issues, please use the issue tracker.
 Thank you!
